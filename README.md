@@ -8,8 +8,8 @@ Live site link here [Nikon - Cam Shop](https://nikon-cam.web.app/)
 * For the data storage, mongoDB database is used.
 * Nodejs is the backend's language for this website.
 * In mongoDB, websites information like the order, the review, user's basic information is saving when a user logging in.
-It is a full-stack website with nodejs and express in the backend side.
-* i used expressjs as a framework of nodejs.
+* It is a full-stack website with nodejs and express in the backend side.
+* I used expressjs as a framework of nodejs.
 
 
 
